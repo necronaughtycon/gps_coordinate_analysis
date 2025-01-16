@@ -1,4 +1,4 @@
-# Event Records Processor
+# GPS Event Records Processor
 This Python script processes event records from an SQLite database containing GPS coordinates and timestamps. It converts the GPS coordinates into human-readable addresses and converts timestamps into Eastern Standard Time (EST). The processed data is saved in batches as CSV files.
 
 ## Features
